@@ -60,4 +60,5 @@ A suíte foi desenhada para atingir **100% de Cobertura de Decisão (Branch Cove
    pip install pytest
 
 2. **Executar a Suíte de Testes:**
-    ```pytest -v
+    ```bash
+    pytest -v
